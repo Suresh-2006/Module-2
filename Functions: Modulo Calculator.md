@@ -12,7 +12,6 @@ To write a Python program that defines a function which accepts two values and r
 
 ## 🧾 Program
 
-Add code Here
 ```py
 def result(a,b):
         return a%b
